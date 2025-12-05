@@ -1,5 +1,5 @@
-title: "ICSGET 2026"
-email: icsget@vardhaman.org
+title: "E3Vision 2026"
+email: e3vision@cbit.ac.in
 timezone: IST
 baseurl: ""
 permalink: "/:title/"
@@ -7,7 +7,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Ravivarman
 paginate: 30
-disqus: 'vardhaman'
+disqus: 'cbit'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -28,16 +28,16 @@ authors:
     name: Ravivarman
     display_name: Ravivarman
     avatar: 'assets/images/sal.png'
-    email: ravivarman@vardhaman.org
+    email: siliconravi@yahoo.com
     web: https://www.sravivarman.com/
     twitter: https://twitter.com/
-    description: "Dr. S. Ravivarman, Professor, EEE, Vardhaman College of Engineering, Hyderabad - 50128, Telangana, India."
+    description: "Dr. S. Ravivarman, Hyderabad - 50128, Telangana, India."
 # Social
 # social:
 #  instagram: https://www.instagram.com/#
 #  facebook: https://www.facebook.com/#
 #  twitter: https://twitter.com/#
-#  linkedin: https://in.linkedin.com/school/vardhaman/
+#  linkedin: https://in.linkedin.com/#/
 
 # Plugins
 plugins: 

@@ -10,7 +10,7 @@ background: '/img/bg-index.jpg'
 <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
-      <!--h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">ICSGET 2026</h1-->
+      <!--h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">E3Vision 2026</h1-->
       <h2 class="mb-4" style="color:#ffffff">1<sup>st</sup> International Conference on E3Vision (E3Vision 2026)</h2>
 	  <h3 class="mb-4" style="color:#ffffff">13 - 14 March 2026</h3>
 	  <h4 class="mb-4" style="color:#ffffff">Organized by Department of EEE, Chaitanya Bharathi Institute of Technology</h4>
@@ -24,7 +24,7 @@ background: '/img/bg-index.jpg'
 {% endif %}
 
 &nbsp;
-## ICSGET 2026
+## E3Vision 2026
 <p align="justify">The 1<sup>st</sup> E3Vision 2026 will bring together a diverse group of experts, researchers, and industry professionals, passionate about advancing sustainability. The conference will explore into the latest developments in sustainable technologies in the fields such as smart grids and microgrids, focusing on enhancing grid resilience, cybersecurity, and power quality. New breakthroughs in battery technologies, energy storage, and charging infrastructure will be explored, along with the seamless integration of renewable energy and electric vehicles.<br>  
 
 Showcasing innovations in smart electronics, including energy-efficient designs and wearable technology for health and environmental monitoring, will be a key highlight. Discussions will cover green manufacturing practices and the role of AI in creating more sustainable electronics. The conference will also feature cutting-edge materials for renewable energy and green construction, as well as innovative use of nanomaterials for environmental cleanup and healthcare applications.<br>
@@ -51,7 +51,7 @@ Showcasing innovations in smart electronics, including energy-efficient designs 
 &nbsp;
 
 ---
-## About Vardhaman College of Engineering
+## About Chaitanya Bharathi Institute of Technology
 
 <div class="container">
 	<div class="row justify-content-between">
@@ -72,9 +72,4 @@ Showcasing innovations in smart electronics, including energy-efficient designs 
 			<b>Visit <a href="https://www.cbit.ac.in">www.cbit.ac.in</a></b></p>
 		</div>
 	</div>
-</div>
-<div class="container">
-	<div class="row justify-content-between">
-	<img alt="Chaitanya Bharathi Institute of Technology" src="assets/images/ICSGET_2026_Brochure_1.png">
-</div>
 </div>
