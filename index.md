@@ -11,7 +11,7 @@ background: '/img/bg-index.jpg'
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
       <!--h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">E3Vision 2026</h1-->
-      <h2 class="mb-4" style="color:#ff7f27">1<sup>st</sup> International Conference on E3Vision (E3Vision 2026)</h2>
+      <h2 class="mb-4" style="color:#ff7f27">1<sup>st</sup> International Conference on Electricity, e-Mobility & Energy Innovation (E3 Vision 2026)</h2>
 	  <h3 class="mb-4" style="color:#ff7f27">13 - 14 March 2026</h3>
 	  <h4 class="mb-4" style="color:#ff7f27">Organized by Department of EEE, Chaitanya Bharathi Institute of Technology</h4>
       <a href="{{site.baseurl}}/submission" class="btn btn-dark text-white px-5 btn-lg">Submit (Microsoft CMT)</a>
@@ -25,9 +25,9 @@ background: '/img/bg-index.jpg'
 
 &nbsp;
 ## E3Vision 2026
-<p align="justify">The 1<sup>st</sup> E3Vision 2026 will bring together a diverse group of experts, researchers, and industry professionals, passionate about advancing sustainability. The conference will explore into the latest developments in sustainable technologies in the fields such as smart grids and microgrids, focusing on enhancing grid resilience, cybersecurity, and power quality. New breakthroughs in battery technologies, energy storage, and charging infrastructure will be explored, along with the seamless integration of renewable energy and electric vehicles.<br>  
+<p align="justify">The 1<sup>st</sup> International Conference on Electricity, e-Mobility & Energy Innovation is a global forum bringing together researchers, industry experts, innovators, policymakers, and academia to shape the future of modern energy systems. The conference focuses on the rapidly evolving landscape of power systems, renewable energy technologies, electric mobility, energy storage, and smart grid digitalization.
 
-Showcasing innovations in smart electronics, including energy-efficient designs and wearable technology for health and environmental monitoring, will be a key highlight. Discussions will cover green manufacturing practices and the role of AI in creating more sustainable electronics. The conference will also feature cutting-edge materials for renewable energy and green construction, as well as innovative use of nanomaterials for environmental cleanup and healthcare applications.<br>
+ICEEEI aims to foster interdisciplinary collaboration and promote cutting-edge research that accelerates the transition toward a sustainable, intelligent, and net-zero energy future. With the increasing integration of renewable energy, digital grid platforms, advanced storage systems, and autonomous electric mobility, the conference provides a vital platform to discuss challenges, showcase innovations, and present next-generation solutions.<br>
 </p>
 &nbsp;
 
