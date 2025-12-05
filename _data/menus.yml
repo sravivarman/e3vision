@@ -19,9 +19,6 @@ topmenu:
 - title: Registration
   url: "registration/"  
 
-- title: Past Conferences
-  url: "pastconferences/"  
-
 - title: Contact
   url: "contact/"
 
