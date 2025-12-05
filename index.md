@@ -25,9 +25,11 @@ background: '/img/bg-index.jpg'
 
 &nbsp;
 ## E3Vision 2026
-<p align="justify">The 1<sup>st</sup> International Conference on Electricity, e-Mobility & Energy Innovation is a global forum bringing together researchers, industry experts, innovators, policymakers, and academia to shape the future of modern energy systems. The conference focuses on the rapidly evolving landscape of power systems, renewable energy technologies, electric mobility, energy storage, and smart grid digitalization.
+<p align="justify">The 1<sup>st</sup> International Conference on Electricity, e-Mobility & Energy Innovation is a global platform that brings together researchers, industry professionals, policymakers, and academics to explore and advance the latest developments in modern energy systems. The conference addresses the rapidly evolving domains of power generation, transmission and distribution, renewable energy technologies, energy storage, electric mobility, and smart grid digitalization, providing a comprehensive perspective on current trends and future directions in the energy sector.
 
-ICEEEI aims to foster interdisciplinary collaboration and promote cutting-edge research that accelerates the transition toward a sustainable, intelligent, and net-zero energy future. With the increasing integration of renewable energy, digital grid platforms, advanced storage systems, and autonomous electric mobility, the conference provides a vital platform to discuss challenges, showcase innovations, and present next-generation solutions.<br>
+As the world moves toward sustainable and net-zero energy futures, E3 VISION 2026 provides a critical forum to foster interdisciplinary collaboration, encourage the exchange of innovative ideas, and disseminate cutting-edge research. The conference emphasizes the integration of renewable energy sources, advanced energy storage systems, digital grid platforms, and autonomous electric mobility solutions, enabling stakeholders to collectively tackle technical, regulatory, and societal challenges.
+
+Through its inclusive and forward-looking program, E3 VISION 2026 highlights the importance of innovation, sustainability, and resilience in modern energy systems. Participants gain insight into transformative technologies and strategies that are shaping the next generation of electricity networks and mobility solutions, bridging the gap between research, industry applications, and policy development.<br>
 </p>
 &nbsp;
 
