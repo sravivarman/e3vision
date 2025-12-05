@@ -7,17 +7,17 @@ image: assets/images/banner-alt.png
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-**Dr. N. Karuppiah**   
-Professor and Head, Department of EEE, VCE  
-Mobile: +91 97518 33346
+**Dr. **   
+Professor and Head, Department of EEE, CBIT  
+Mobile: +91 
 
-**Dr. S. Ravivarman**  
-Professor, Department of EEE, EEE  
-Mobile: +91 99942 77431
+**Dr. **  
+Professor, Department of EEE, CBIT
+Mobile: +91 
 
-**Dr. K. Muruga Perumal**  
-Associate Professor, Department of EEE, VCE  
-Mobile: +91 99448 40062
+**Dr. **  
+Associate Professor, Department of EEE, CBIT  
+Mobile: +91 
 
 <hr>
 
@@ -28,7 +28,7 @@ Mobile: +91 99448 40062
 <span class="fa fa-map-marker"></span>
 </div>
 <div class="text">
-<p><span>Address:</span> Department of EEE,<br> Vardhaman College of Engineering,<br> Kacharam, Shamshabad - 501218,<br> Hyderabad, Telangana, India</p>
+<p><span>Address:</span> Department of EEE,<br> Chaitanya Bharathi Institute of Technology,<br> Gandipet, Hyderabad - 500075,<br> Telangana, India</p>
 </div>
 </div>
 </div>
@@ -38,7 +38,7 @@ Mobile: +91 99448 40062
 <span class="fa fa-paper-plane"></span>
 </div>
 <div class="text">
-<p><span>Email:</span> <a href="mailto:icsget@vardhaman.org">icsget@vardhaman.org</a></p>
+<p><span>Email:</span> <a href="mailto:e3vision@cbit.ac.in">e3vision@cbit.ac.in</a></p>
 </div>
 </div>
 </div>
@@ -48,7 +48,7 @@ Mobile: +91 99448 40062
 <span class="fa fa-globe"></span>
 </div>
 <div class="text">
-<p><span>Website:</span> <a href="#">www.icsget.com</a></p>
+<p><span>Website:</span> <a href="#">www.e3vision.in</a></p>
 </div>
 </div>
 </div>
@@ -57,7 +57,7 @@ Mobile: +91 99448 40062
 <p></p>
 
 <hr>
-<form action="https://airform.io/icsget@vardhaman.org" method="POST">    
+<form action="https://airform.io/e3vision@cbit.ac.in" method="POST">    
 <p class="mb-4">Thank you for your interest in getting in touch with us. Please send your message here.</p>
 <div class="form-group row">
 <div class="col-md-6">

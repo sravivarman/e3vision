@@ -6,32 +6,32 @@ image: assets/images/banner-alt.png
 ---
 
 #### Chief Patron
-Dr. T. Vijender Reddy, Chairman, Vardhaman College of Engineering, Hyderabad, India<br>
-Sri M. Rajasekhar Reddy, Vice Chairman, Vardhaman College of Engineering, Hyderabad, India<br>
-Sri T. Upender Reddy, Secretary, Vardhaman College of Engineering, Hyderabad, India<br>
-Sri E. Prabhakar Reddy, Treasurer, Vardhaman College of Engineering, Hyderabad, India<br>
+, Chairman, Chaitanya Bharathi Institute of Technology, Hyderabad, India<br>
+, Vice Chairman, Chaitanya Bharathi Institute of Technology, Hyderabad, India<br>
+, Secretary, Chaitanya Bharathi Institute of Technology, Hyderabad, India<br>
+, Treasurer, Chaitanya Bharathi Institute of Technology, Hyderabad, India<br>
 #### Patron
-Dr. JVR Ravindra, Principal, Vardhaman College of Engineering, Hyderabad, India
+, Principal, Chaitanya Bharathi Institute of Technology, Hyderabad, India
 #### General Chair
 Tomonobu Senjyu (University of the Ryukyus, Japan)<br>
 Muhammad Ammirrul Atiqi (Universiti Kebangsaan Malaysia, Malaysia)<br>
-N. Karuppiah (Vardhaman College of Engineering, India)<br>
-S. Ravivarman (Vardhaman College of Engineering, India)<br>
-K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
 #### Programme Chair
 Nnamdi Nwulu (University of Johannesburg, South Africa)<br>
 B. Praveen Kumar (Universiti Kebangsaan, Malaysia)<br>
-Md. Asif (Vardhaman College of Engineering, India)<br>
-Patil Mounica (Vardhaman College of Engineering, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
 #### Steering Committee
 Parvez Mahmud (University of Technology Sydney, Australia)<br>
-Hari Shankar Jain (Vardhaman College of Engineering, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
 Puneet Kumar Mishra (U R Rao Satellite Centre, India)<br>
 Mohammad Faridun Naim Tajddin (Universiti Malaysia Perlis, Malaysia)<br>
 #### Publication Chair
 Suganthi Ramasamy (University of Cagliari, Italy)<br>
 Muhammad Ammirrul Atiqi (Universiti Kebangsaan, Malaysia)<br>
-T. Anuradha Devi (Vardhaman College of Engineering, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
 #### Technical Program Committee
 Akhtar Kalam (Victoria University, Melbourne, Australia)<br>
 Ankur Gupta (Indian Institute Technology, Dhanbad, India)<br>
@@ -92,22 +92,22 @@ Zahra Saadatizadeh (University of Arkansas, USA)<br>
 Özen ÖZER (Kırklareli University, Kırklareli, Turkey)<br>
 #### Workshop Chair
 Amirrudin Kamsin (University of Malaya, Malaysia)<br>
-N. Srinivas (Vardhaman College of Engineering, India)<br>
-A. Ananda Kumar (Vardhaman College of Engineering, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
 #### Organizing Committee
 Belqasem Aljafari (Najran University, Saudi Arabia) <br>
 Victor Ayodeli (Universiti Teknologi Petronas, Malaysia) <br>
-N. Karuppiah (Vardhaman College of Engineering, India)<br>
-S. Ravivarman (Vardhaman College of Engineering, India)<br>
-K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
 #### Local Organizing Committee
-B. Raja Gopal Reddy (Vardhaman College of Engineering, India)<br>
-A. Ramakrishna (Vardhaman College of Engineering, India)<br>
-B. Mohan (Vardhaman College of Engineering, India)<br>
-G. Indira Rani (Vardhaman College of Engineering, India)<br>
-Fatima Unnisa (Vardhaman College of Engineering, India)<br>
-K. Haleema (Vardhaman College of Engineering, India)<br>
-S. Vinod Reddy (Vardhaman College of Engineering, India)<br>
-D. Revathi (Vardhaman College of Engineering, India)<br>
-Bandi Balakrishna (Vardhaman College of Engineering, India)<br>
-Gouthami Challa  (Vardhaman College of Engineering, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
+ (Chaitanya Bharathi Institute of Technology, India)<br>
