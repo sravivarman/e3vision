@@ -30,6 +30,11 @@ Proof of successful payment must be retained by the authors and may be required 
   </tr>
 </table>
 
+<table border="2" align="center" style="margin: 0px auto; width:75%">
+  <tr>
+    <th><img src="https://raw.githubusercontent.com/sravivarman/e3vision/refs/heads/main/assets/images/upi.png"></th>
+  </tr>
+</table>
 
 ![UPI QR Code](image.png)
 
