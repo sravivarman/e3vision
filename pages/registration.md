@@ -29,14 +29,14 @@ Proof of successful payment must be retained by the authors and may be required 
 	<td> 150 USD </td>
   </tr>
 </table>
-
+<br><br>
 <table border="2" align="center" style="margin: 0px auto; width:75%">
   <tr>
-    <th><img src="https://raw.githubusercontent.com/sravivarman/e3vision/refs/heads/main/assets/images/upi.png"></th>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/sravivarman/e3vision/refs/heads/main/assets/images/upi.png">
+    </td>
   </tr>
 </table>
-
-![UPI QR Code](image.png)
 
 The registration fee can be paid through **NEFT or UPI**.<br><br>
 
