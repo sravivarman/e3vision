@@ -31,6 +31,6 @@ Monash University, Australia
 Dr. Jagriti Saini  
 Founder,  
 Eternal RESTEM,  
-Chandigarh India  
+Chandigarh, India  
 
 &nbsp;
