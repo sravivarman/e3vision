@@ -31,7 +31,7 @@ Proof of successful payment must be retained by the authors and may be required 
 </table>
 
 <p align="center">
-  <img src="image.png" alt="UPI QR Code"><br><br>
+  <img src="/pages/image.png" alt="UPI QR Code"><br><br>
   <strong>Scan to pay registration fee via UPI / NEFT</strong>
 </p>
 
