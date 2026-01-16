@@ -9,7 +9,7 @@ The E3Vision-2026 invites original, unpublished research contributions from acad
 
 ---
 
-## Track 1: Advanced Power Systems, Grid Stability & High-Voltage Engineering
+### Track 1: Advanced Power Systems, Grid Stability & High-Voltage Engineering
 - Power system planning, operation, and reliability  
 - Grid stability, control, and resilience enhancement  
 - Smart grids, microgrids, and active distribution networks  
@@ -19,7 +19,7 @@ The E3Vision-2026 invites original, unpublished research contributions from acad
 
 ---
 
-## Track 2: Renewable Energy Conversion, Control & Net-Zero Technologies
+### Track 2: Renewable Energy Conversion, Control & Net-Zero Technologies
 - Solar PV, wind, hydro, and hybrid renewable energy systems  
 - Power converters and control strategies for renewables  
 - Grid integration of inverter-based resources  
@@ -29,7 +29,7 @@ The E3Vision-2026 invites original, unpublished research contributions from acad
 
 ---
 
-## Track 3: Power Electronics & Digital Grid Platforms for Next-Gen Energy Systems
+### Track 3: Power Electronics & Digital Grid Platforms for Next-Gen Energy Systems
 - Advanced power semiconductor devices (Si, SiC, GaN)  
 - Multilevel inverters and high-efficiency converter topologies  
 - Digital substations and IEC 61850-based systems  
@@ -39,7 +39,7 @@ The E3Vision-2026 invites original, unpublished research contributions from acad
 
 ---
 
-## Track 4: Battery Technologies, Energy Storage & Supercapacitors
+### Track 4: Battery Technologies, Energy Storage & Supercapacitors
 - Lithium-ion, sodium-ion, solid-state, and emerging batteries  
 - Battery modeling, diagnostics, and thermal management  
 - Battery Management Systems (BMS) and state estimation  
@@ -49,7 +49,7 @@ The E3Vision-2026 invites original, unpublished research contributions from acad
 
 ---
 
-## Track 5: Electric Mobility, Autonomous EVs & Smart Energy Management
+### Track 5: Electric Mobility, Autonomous EVs & Smart Energy Management
 - Electric and hybrid vehicle architectures  
 - Traction motors, drives, and powertrain optimization  
 - EV charging infrastructure and fast-charging technologies  
