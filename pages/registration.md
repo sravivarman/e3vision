@@ -30,6 +30,7 @@ Proof of successful payment must be retained by the authors and may be required 
   </tr>
 </table>
 
+
 ![UPI QR Code](image.png)
 
 The registration fee can be paid through **NEFT or UPI**.<br><br>

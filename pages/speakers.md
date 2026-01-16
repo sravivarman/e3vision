@@ -17,3 +17,23 @@ University of Cagliari, Cagliari, Italy
 
 &nbsp;
 
+![Dr. Saad Motahhir](image-1.png)
+Dr. Saad Motahhir
+ENSA, USMBA,
+Fez, Morocco
+
+&nbsp;
+
+![Dr. Hassan Haes Alhelou](image-2.png)
+Dr. Hassan Haes Alhelou
+Senior Researchear, 
+Electrical and Computer Systems Engineering
+Monash University, Australia
+
+&nbsp;
+
+![r. Jagriti Saini](image-3.png)
+Dr. Jagriti Saini
+Founder,
+Eternal RESTEM,
+Chandigarh India
