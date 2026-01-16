@@ -11,29 +11,25 @@ Universiti Teknologi Brunei, Jalan Tungku Link Gadong, BE1410 Brunei Darussalam
 
 &nbsp;
 
-![Dr. Suganthi Ramasamy ](../assets/images/speaker2.jpg "Dr. Suganthi Ramasamy ")  
-Dr. Suganthi Ramasamy  
-University of Cagliari, Cagliari, Italy 
+![Dr. Saad Motahhir](image-1.png "Dr. Saad Motahhir")  
+Dr. Saad Motahhir  
+ENSA, USMBA,  
+Fez, Morocco  
 
 &nbsp;
 
-![Dr. Saad Motahhir](image-1.png)
-Dr. Saad Motahhir
-ENSA, USMBA,
-Fez, Morocco
+![Dr. Hassan Haes Alhelou](image-2.png "Dr. Hassan Haes Alhelou")  
+Dr. Hassan Haes Alhelou  
+Senior Researchear,   
+Electrical and Computer Systems Engineering  
+Monash University, Australia  
 
 &nbsp;
 
-![Dr. Hassan Haes Alhelou](image-2.png)
-Dr. Hassan Haes Alhelou
-Senior Researchear, 
-Electrical and Computer Systems Engineering
-Monash University, Australia
+![Dr. Jagriti Saini](image-3.png "Dr. Jagriti Saini")  
+Dr. Jagriti Saini  
+Founder,  
+Eternal RESTEM,  
+Chandigarh India  
 
 &nbsp;
-
-![r. Jagriti Saini](image-3.png)
-Dr. Jagriti Saini
-Founder,
-Eternal RESTEM,
-Chandigarh India
