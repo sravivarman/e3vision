@@ -6,8 +6,6 @@ image: assets/images/banner-alt.png
 ---
 
 
-
-# Submission  
 ## Instructions to Authors
 
 Authors are requested to follow the guidelines below before submitting their papers:<br><br>
