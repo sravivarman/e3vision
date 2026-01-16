@@ -5,47 +5,59 @@ permalink: "/submission/"
 image: assets/images/banner-alt.png
 ---
 
+
+
+# Submission  
 ## Instructions to Authors
 
-Authors are requested to follow these guidelines before submitting their papers:
+Authors are requested to follow the guidelines below before submitting their papers:<br><br>
 
-1. Each paper can have a maximum of **6 authors**.  
-2. Author names and affiliations must be entered during submission in the CMT portal and **cannot be changed later**.  
-3. The list of authors in the paper must **exactly match** the CMT submission.  
-4. Correspondence will be sent to **all listed authors**, so ensure that all email addresses in CMT are correct.  
-5. All authors are required to **sign the copyright form**.  
-6. Include a brief **author contribution statement** in each paper.  
-7. Papers must be at least **5 pages**, excluding references.  
-8. Figures and images must have a resolution of at least **600 dpi**.  
-9. Each paper must include a minimum of **15 references**.  
-10. Only **Scopus-indexed papers** should be cited in the references.  
-11. **Self-citations are not allowed**. Papers containing self-citations will be rejected.  
+1. Each paper can have a maximum of **6 authors**.<br>
+2. Author names and affiliations must be entered during submission in the **CMT portal** and cannot be changed later.<br>
+3. The list of authors in the paper must **exactly match** the author details provided in CMT.<br>
+4. All correspondence will be sent to **all listed authors**; therefore, ensure that all email addresses entered in CMT are correct and active.<br>
+5. All authors are required to **sign the copyright form**.<br>
+6. Each paper must include a **brief author contribution statement**.<br>
+7. Papers must be **at least 5 pages**, excluding references.<br>
+8. Figures and images must have a **minimum resolution of 600 dpi**.<br>
+9. Each paper must include a **minimum of 15 references**.<br>
+10. Only **Scopus-indexed papers** should be cited in the references.<br>
+11. **Self-citations are not allowed**. Papers containing self-citations will be rejected.<br>
+12. All submitted manuscripts must have a **similarity index below 20%**, excluding references. Papers exceeding this limit will be desk-rejected.<br>
+13. The use of **AI-generated text, figures, tables, or code is strictly prohibited**. Authors must ensure **0% AI-generated content** in their manuscripts.<br><br>
 
-> Authors not following these guidelines may face desk rejection before review.
+Authors who do not comply with the above guidelines may face **desk rejection prior to peer review**.<br><br>
 
-We recommend authors to use WORD template. It is planned to publish the proceedings with **"E3S Web of Conferences”**.  
+Authors are **strongly recommended to use the MS Word template**. The conference proceedings are planned to be published with **E3S Web of Conferences**.<br><br>
+
 > ##### **Template:** [MS Word](../assets/E3vision_2026_Template_woc_1col.docx)  
 > ##### **Submission Link:** [Microsoft CMT](https://cmt3.research.microsoft.com/E3Vision2026)
 
-The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+The Microsoft CMT service is used for managing the peer-review process for this conference. This service is provided free of charge by Microsoft, including all expenses related to Azure cloud services, software development, and technical support.<br><br>
 
+Authors must register their email address with CMT to submit papers to **E3vision 2026**. Instructions for creating a CMT account are available at the submission portal.<br>
 
-The authors will need to register their email with CMT to submit paper to E3Vision 2026. Here is a link how to create a [CMT account: https://cmt3.research.microsoft.com/docs/help/general/account-creation.html](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
+---
 
 ## Paper Submission & Review Policy
-Authors are advised to submit their original and unpublished work (related to the conference theme).
 
-The review process takes into account both the quality of writing and the scientific impact of the work. Authors should clearly identify the problem, explain their contribution(s), and justify the state-of-the-art works. The program committee would like to review those who develop, argue, and provide results.
+Authors are advised to submit **original and unpublished work** relevant to the conference theme.<br><br>
 
-Also, note that the (E3vision 2026) team takes care of plagiarism (even self-plagiarism) as serious professional misconduct. All papers will be screened for plagiarism, and the (E3Vision 2026) team will reject them in case there exists significant overlap with the previously published papers/papers.
+The review process evaluates both the **quality of writing** and the **scientific and technical impact** of the work. Authors should clearly define the research problem, explain their contributions, justify the novelty of the work, and appropriately position it with respect to the state of the art. The Program Committee encourages submissions that present strong technical arguments supported by meaningful results.<br><br>
+
+Plagiarism, including **self-plagiarism**, is treated as serious professional misconduct. All submissions will be screened for plagiarism, and papers showing significant overlap with previously published or submitted work will be rejected.<br>
+
+---
 
 ## Submission Guidelines
 
-**Regular paper (8–15 pages):** Authors are invited to submit original and unpublished research work related to the conference theme. Each paper should clearly identify the research problem or question, explain the novelty and significance of the contribution, describe the methodology and experimental or theoretical approach, and compare the proposed work with existing state-of-the-art techniques or research. The paper should present results in a clear and structured manner using appropriate figures, tables, and discussions, followed by meaningful conclusions that highlight key insights, implications, and possible directions for future work.
+**Regular Paper (8–15 pages):**<br>
+Authors are invited to submit original and unpublished research papers aligned with the conference themes. Each submission should clearly identify the research problem, highlight the novelty and significance of the contribution, describe the methodology and experimental or theoretical framework, and compare the proposed approach with existing state-of-the-art techniques. Results should be presented clearly using appropriate figures, tables, and discussions, followed by well-structured conclusions outlining key findings, implications, and potential future research directions.<br><br>
 
-> All submissions must follow the formatting guidelines and instructions provided in the conference template.
+All submissions must strictly follow the **formatting guidelines** and instructions provided in the official conference template.<br>
 
+---
 {{< notice "warning" >}}
 ### Important Note
-Regardless of submission types, authors are always advised to submit their original and unpublished work (related to the conference theme).
+Regardless of the submission type, authors are strongly advised to submit **only original and unpublished work** relevant to the conference themes.<br>
 {{< /notice >}}
