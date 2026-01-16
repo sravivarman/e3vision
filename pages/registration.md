@@ -29,7 +29,7 @@ Proof of successful payment must be retained by the authors and may be required 
 	<td> 150 USD </td>
   </tr>
 </table>
-<br><br>
+<br>
 <table border="2" align="center" style="margin: 0px auto; width:75%">
   <tr>
     <td align="center">
@@ -49,19 +49,3 @@ SWIFT Code: ICICINBBXXX<br>
 MICR Code: 500229104<br><br>
 
 Authors are advised to ensure that the payment details are entered correctly while making the transaction. Proof of payment must be retained for registration confirmation and future reference.<br>
-
-
-
-
-<!--## Account Details
-
-# Registration Completed
-
-<!-- | Account Name | : | Vardhaman College of Engineering |
-| ------------ | ---- | ----------------------------- |
-| Bank Name | : | Central Bank of India |
-| Branch | : | Gudimalkapuram |
-| Account Number | : | 3559461487 |
-| IFSC Code | : | CBIN0283080 |
-| MICR Code | : | 500016022 |
--->
