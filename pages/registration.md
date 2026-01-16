@@ -5,6 +5,13 @@ permalink: "/registration/"
 image: assets/images/banner-alt.png
 ---
 
+Payment of registration fees must accompany all submitted registration forms. **Registration will not be confirmed until the full payment is received**.<br><br>
+
+Authors are requested to pay the **registration fees exclusively through UPI**, including platforms such as **Google Pay**, **PhonePe**, or other UPI-enabled applications.<br><br>
+
+Proof of successful payment must be retained by the authors and may be required for verification during the registration confirmation process.<br>
+
+
 <table border="2" align="center" style="margin: 0px auto; width:75%">
   <tr>
     <th> Type of Author </th>
@@ -13,17 +20,31 @@ image: assets/images/banner-alt.png
   </tr>
   <tr>
     <td> Faculty/Students </td>
-    <td> Rs. /- </td>
-	<td>  USD </td>
+    <td> Rs. 9000 </td>
+	<td>  150 USD </td>
   </tr>
   <tr>
     <td> Industry </td>
-    <td> Rs. /- </td>
-	<td>  USD </td>
+    <td> Rs. 9000 </td>
+	<td> 150 USD </td>
   </tr>
 </table>
 
-Payment of fees must accompany all registration forms. Your registration WILL NOT be confirmed until payment is received in full. The Authors are requested to pay the Registration Fees using UPI (Google Pay, Phone Pe, etc.).
+![alt text](image.png)
+
+The registration fee can be paid through **NEFT or UPI**.<br><br>
+
+**Bank Details:**<br>
+Bank Name: ICICI Bank<br>
+Account Name: CBIT Fee Collection and Other Receipts<br>
+Account Number: 180401001195<br>
+IFSC Code: ICIC0004385<br>
+SWIFT Code: ICICINBBXXX<br>
+MICR Code: 500229104<br><br>
+
+Authors are advised to ensure that the payment details are entered correctly while making the transaction. Proof of payment must be retained for registration confirmation and future reference.<br>
+
+
 
 
 <!--## Account Details
