@@ -7,17 +7,15 @@ image: assets/images/banner-alt.png
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-**Dr. **   
-Professor and Head, Department of EEE, CBIT  
-Mobile: +91 
+**Dr. Thanikanti Sudhakar Babu**
+Chaitanya Bharathi Institute of Technology, Hyderabad, India
+sudhakarbabu_eee@cbit.ac.in
 
-**Dr. **  
-Professor, Department of EEE, CBIT
-Mobile: +91 
 
-**Dr. **  
-Associate Professor, Department of EEE, CBIT  
-Mobile: +91 
+**Prof. M. Balasubbareddy**
+Chaitanya Bharathi Institute of Technology, Hyderabad, India
+balasubbareddy_eee@cbit.ac.in
+
 
 <hr>
 
