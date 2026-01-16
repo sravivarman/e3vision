@@ -7,7 +7,8 @@ image: assets/images/banner-alt.png
 
 ![Dr. Sheik Mohammed Sulthan](../assets/images/image-0.jpg "Dr. Sheik Mohammed Sulthan")  
 Dr. Sheik Mohammed Sulthan  
-Universiti Teknologi Brunei, Jalan Tungku Link Gadong, BE1410 Brunei Darussalam 
+Universiti Teknologi Brunei,  
+Jalan Tungku Link Gadong, BE1410 Brunei Darussalam  
 
 &nbsp;
 
