@@ -12,7 +12,7 @@ background: '/img/bg-index.jpg'
     <div class="col-md-6">
       <!--h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">E3Vision 2026</h1-->
       <h2 class="mb-4" style="color:#ff7f27">1<sup>st</sup> International Conference on Electricity, e-Mobility & Energy Innovation (E3 Vision 2026)</h2>
-	  <h3 class="mb-4" style="color:#ff7f27">13 - 14 March 2026</h3>
+	  <h3 class="mb-4" style="color:#ff7f27">07 – 08 August 2026</h3>
 	  <h4 class="mb-4" style="color:#ff7f27">Organized by Department of EEE, Chaitanya Bharathi Institute of Technology</h4>
       <a href="{{site.baseurl}}/submission" class="btn btn-dark text-white px-5 btn-lg">Submit (Microsoft CMT)</a>
     </div>
