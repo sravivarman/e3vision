@@ -39,7 +39,7 @@ The E3Vision-2026 invites original, unpublished research contributions from acad
 
 ---
 
-### Track 4: Battery Technologies, Energy Storage & Supercapacitors
+**Track 4: Battery Technologies, Energy Storage & Supercapacitors**
 - Lithium-ion, sodium-ion, solid-state, and emerging batteries  
 - Battery modeling, diagnostics, and thermal management  
 - Battery Management Systems (BMS) and state estimation  
@@ -49,7 +49,7 @@ The E3Vision-2026 invites original, unpublished research contributions from acad
 
 ---
 
-### Track 5: Electric Mobility, Autonomous EVs & Smart Energy Management
+#### Track 5: Electric Mobility, Autonomous EVs & Smart Energy Management
 - Electric and hybrid vehicle architectures  
 - Traction motors, drives, and powertrain optimization  
 - EV charging infrastructure and fast-charging technologies  
