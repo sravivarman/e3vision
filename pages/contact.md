@@ -7,17 +7,15 @@ image: assets/images/banner-alt.png
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-**Dr. **   
-Professor and Head, Department of EEE, CBIT  
-Mobile: +91 
+**Dr. Thanikanti Sudhakar Babu**
+Chaitanya Bharathi Institute of Technology, Hyderabad, India
+sudhakarbabu_eee@cbit.ac.in
 
-**Dr. **  
-Professor, Department of EEE, CBIT
-Mobile: +91 
 
-**Dr. **  
-Associate Professor, Department of EEE, CBIT  
-Mobile: +91 
+**Prof. M. Balasubbareddy**
+Chaitanya Bharathi Institute of Technology, Hyderabad, India
+balasubbareddy_eee@cbit.ac.in
+
 
 <hr>
 
@@ -38,7 +36,7 @@ Mobile: +91
 <span class="fa fa-paper-plane"></span>
 </div>
 <div class="text">
-<p><span>Email:</span> <a href="mailto:e3vision@cbit.ac.in">e3vision@cbit.ac.in</a></p>
+<p><span>Email:</span> <a href="mailto:e3vision@cbit.ac.in">e3visionconference@gmail.com</a></p>
 </div>
 </div>
 </div>
@@ -57,7 +55,7 @@ Mobile: +91
 <p></p>
 
 <hr>
-<form action="https://airform.io/e3vision@cbit.ac.in" method="POST">    
+<form action="https://airform.io/e3visionconference@gmail.com" method="POST">    
 <p class="mb-4">Thank you for your interest in getting in touch with us. Please send your message here.</p>
 <div class="form-group row">
 <div class="col-md-6">
