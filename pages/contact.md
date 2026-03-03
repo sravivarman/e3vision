@@ -36,7 +36,7 @@ balasubbareddy_eee@cbit.ac.in
 <span class="fa fa-paper-plane"></span>
 </div>
 <div class="text">
-<p><span>Email:</span> <a href="mailto:e3vision@cbit.ac.in">e3visionconference@gmail.com</a></p>
+<p><span>Email:</span> <a href="mailto:e3vision@cbit.ac.in">e3vision@cbit.ac.in</a></p>
 </div>
 </div>
 </div>
@@ -55,7 +55,7 @@ balasubbareddy_eee@cbit.ac.in
 <p></p>
 
 <hr>
-<form action="https://airform.io/e3visionconference@gmail.com" method="POST">    
+<form action="https://airform.io/e3vision@cbit.ac.in.com" method="POST">    
 <p class="mb-4">Thank you for your interest in getting in touch with us. Please send your message here.</p>
 <div class="form-group row">
 <div class="col-md-6">
